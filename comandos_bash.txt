@@ -5,3 +5,4 @@ ls -a = arquivos ocultos
 mkdir = criar diretório(pasta)
 rm = remove arquivo ou diretorio
 cat = exibe conteúdo do arquivo
+rm -rf = remove de forma recursiva e forçada todos os diretorios
