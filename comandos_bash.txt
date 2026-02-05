@@ -1,0 +1,5 @@
+ls = listar arquivos e pastas
+cd = move entre diretorios
+pwd = mostrar o caminho até o diretório
+ls -a = arquivos ocultos
+mkdir = criar diretório(pasta)
