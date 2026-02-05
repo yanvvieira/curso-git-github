@@ -3,3 +3,5 @@ cd = move entre diretorios
 pwd = mostrar o caminho até o diretório
 ls -a = arquivos ocultos
 mkdir = criar diretório(pasta)
+rm = remove arquivo ou diretorio
+cat = exibe conteúdo do arquivo
