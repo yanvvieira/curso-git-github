@@ -14,4 +14,4 @@ Além disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code.
 05. git status
 06. git commit -m "minha mensagem"
 07. git checkout main
-08. git merge nova_branch
+08. git merge n
